@@ -8,9 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import web.model.Car;
 import web.service.CarServiceImpl;
 
-import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 @Controller
 public class CarController {
